@@ -29,6 +29,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Contact me!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Message me at [Whatsapp](https://wa.me/3755358450)
-- 😉 Contact me on discord: **Rin#1001**
+- 😉 Contact me on discord: **Kappa_#6470**
 
 ![quazEx's stats](https://github-readme-stats.vercel.app/api?username=L0r3nz0S4ss0&show_icons=true)
